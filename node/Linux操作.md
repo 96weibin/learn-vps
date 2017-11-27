@@ -3,6 +3,7 @@
 ## 安装软件
 
   >apt-get install [name] -y*apt-get   Advanced Package Tool*;
+
   >apt-get install git -y;
 
 ## 查找
